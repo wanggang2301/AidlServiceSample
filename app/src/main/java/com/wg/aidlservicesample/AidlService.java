@@ -16,6 +16,7 @@ import java.util.TimerTask;
  * @author: Wangg
  * @Name：AidlService
  * @Description:  Aidl的Service服务 类似服务器段
+ * 备注：aidl文件的客户端和服务器端 包名必须相同
  * @Created on:2017/3/3  16:44.
  */
 
